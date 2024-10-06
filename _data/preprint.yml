@@ -3,34 +3,34 @@ main:
   - title: "PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-identification"
     authors: <strong>Lei Tan</strong>, Pingyang Dai, Jie Chen, Liujuan Cao, Yongjian Wu, Rongrong Ji
     conference_short: Arxiv
-    conference: arXiv preprint arXiv:2408.16684 <strong>(Under Review)</strong>, 2024.
+    conference: arXiv preprint arXiv:2408.16684, 2024.
     pdf: https://arxiv.org/pdf/2408.16684
     code: https://stone96123.github.io/
-    image: ./assets/img/RLE.png
+    image: ./assets/img/partformer.png
 
   - title: "Prompt Decoupling for Text-to-Image Person Re-identification"
     authors: Weihao Li, <strong>Lei Tan</strong>, Pingyang Dai, Yan Zhang
     conference_short: Arxiv
-    conference: arXiv preprint arXiv:2401.02173 <strong>(Under Review)</strong>, 2024.
+    conference: arXiv preprint arXiv:2401.02173, 2024.
     pdf: https://arxiv.org/pdf/2401.02173
     code: https://stone96123.github.io/
-    image: ./assets/img/RLE.png
+    image: ./assets/img/pdc.png
     
   - title: "Spectral Aware Softmax for Visible-Infrared Person Re-identification"
     authors: <strong>Lei Tan</strong>, Pingyang Dai, Qixiang Ye, Mingliang Xu, Yongjian Wu, Rongrong Ji
     conference_short: Arxiv
-    conference: arXiv preprint arXiv:2302.01512 <strong>(Under Review)</strong>, 2023.
+    conference: arXiv preprint arXiv:2302.01512, 2023.
     pdf: https://arxiv.org/pdf/2302.01512
     code: https://github.com/stone96123/SA-Softmax/tree/main
-    image: ./assets/img/RLE.png
+    image: ./assets/img/sas.png
 
   - title: "Exploring Invariant Representation for Visible-Infrared Person Re-identification"
     authors: <strong>Lei Tan</strong>, Yukang Zhang, Shengmei Shen, Yan Wang, Pingyang Dai, Xianming Lin, Yongjian Wu, Rongrong Ji
     conference_short: Arxiv
-    conference: arXiv preprint arXiv:2302.00884 <strong>(Under Review)</strong>, 2023.
+    conference: arXiv preprint arXiv:2302.00884, 2023.
     pdf: https://arxiv.org/pdf/2302.00884
     code: https://github.com/stone96123/RFM
-    image: ./assets/img/RLE.png
+    image: ./assets/img/RFM.png
 
 
 
