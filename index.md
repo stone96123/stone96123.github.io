@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I'm currently a research fellow at the National University of Singapore where I collaborate with Prof. [Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) and Prof. [Robby Tan](https://tanrobby.github.io/). I obtained my Ph.D. degree from Xiamen University, with my research supervised by Prof. [Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). My research interests lie in the fields of person re-identification, and ai-generated image detection.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2024]** One paper about cross-spectral person re-identification is accepted by NeurIPS 2024.
+- **[Dec. 2023]** Two papers about occluded person re-identification are accepted by AAAI 2024.
+- **[Jul. 2023]** One paper about occluded person re-identification is accepted by ACM MM 2023.
+- 
+{% include_relative _includes/preprint.md %}
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
