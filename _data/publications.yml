@@ -1,22 +1,60 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "RLE: A Unified Perspective of Data Augmentation for Cross-Spectral Re-identification"
+    authors: <strong>Lei Tan</strong>, Yukang Zhang, Keke Han, Pingyang Dai, Yan Zhang, Yongjian Wu, Rongrong Ji
+    conference_short: Neurips
+    conference: Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
+    pdf: https://stone96123.github.io/
+    code: https://stone96123.github.io/
+    image: ./assets/img/RLE.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Occluded Person Re-identification via Saliency-Guided Patch Transfer"
+    authors: <strong>Lei Tan</strong>, Jiaer Xia, Wenfeng Liu, Pingyang Dai, Yongjian Wu, Liujuan Cao
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://stone96123.github.io/
+    code: https://stone96123.github.io/
+    image: ./assets/img/SPT.png
+    
+  - title: "Attention Disturbance and Dual-path Constraint Network for Occluded Person Re-identification"
+    authors: Jiaer Xia, <strong>Lei Tan (co-first author)</strong>, Pingyang Dai, Mingbo Zhao, Yongjian Wu, Liujuan Cao
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://stone96123.github.io/
+    code: https://stone96123.github.io/
+    image: ./assets/img/ADM.png
+
+  - title: "Learning Occlusion Disentanglement with Fine-grained Localization for Occluded Person Re-identification"
+    authors: Wenfeng Liu, Xudong Wang, <strong>Lei Tan</strong>, Yan Zhang, Pingyang Dai, Yongjian We, Rongrong Ji
+    conference_short: MM
+    conference: ACM international conference on multimedia <strong>(MM)</strong>, 2023.
+    pdf: https://stone96123.github.io/
+    code: https://stone96123.github.io/
+    image: ./assets/img/FODN.png
+
+  - title: "Dynamic Orototype Mask for Occluded Person Re-identification"
+    authors: <strong>Lei Tan</strong>, Pingyang Dai, Rongrong Ji, Yongjian Wu
+    conference_short: MM
+    conference: ACM international conference on multimedia <strong>(MM)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2207.09046.pdf
+    code: https://github.com/stone96123/DPM
+    image: ./assets/img/dpm.png
+
+  - title: "Orthogonal channel attention-based multi-task learning for multi-view facial expression recognition"
+    authors: Jingying Chen, Lei Yang, <strong>Lei Tan</strong>, Ruyi Xu
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2022.
+    pdf: https://stone96123.github.io/
+    code: https://stone96123.github.io/
     image: ./assets/img/teaser_example.png
+
+  - title: "PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit"
+    authors: Yongqiang Mou, <strong>Lei Tan (co-first author)</strong>, Hui Yang, Jingying Chen, Leyuan Liu, Rui Yan, Yaohong Huang
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
+    pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf
+    code: https://stone96123.github.io/
+    image: ./assets/img/plugnet.png
+
+
+
