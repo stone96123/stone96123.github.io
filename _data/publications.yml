@@ -5,7 +5,7 @@ main:
     conference_short: Neurips
     conference: Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
     pdf: https://stone96123.github.io/
-    code: https://stone96123.github.io/
+    code: https://github.com/stone96123/RLE
     image: ./assets/img/RLE.png
 
   - title: "Occluded Person Re-identification via Saliency-Guided Patch Transfer"
