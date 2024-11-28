@@ -4,7 +4,7 @@ main:
     authors: <strong>Lei Tan</strong>, Yukang Zhang, Keke Han, Pingyang Dai, Yan Zhang, Yongjian Wu, Rongrong Ji
     conference_short: Neurips
     conference: Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
-    pdf: https://stone96123.github.io/
+    pdf: https://openreview.net/pdf?id=Ok6jSSxzfj
     code: https://github.com/stone96123/RLE
     image: ./assets/img/RLE.png
 
