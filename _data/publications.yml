@@ -46,7 +46,7 @@ main:
     conference: Pattern Recognition <strong>(PR)</strong>, 2022.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320322002345
     code: https://stone96123.github.io/
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/fe.png
 
   - title: "PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit"
     authors: Yongqiang Mou, <strong>Lei Tan (co-first author)</strong>, Hui Yang, Jingying Chen, Leyuan Liu, Rui Yan, Yaohong Huang
