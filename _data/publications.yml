@@ -13,7 +13,7 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28312
-    code: https://stone96123.github.io/
+    code: https://github.com/stone96123/SPT
     image: ./assets/img/SPT.png
     
   - title: "Attention Disturbance and Dual-path Constraint Network for Occluded Person Re-identification"
