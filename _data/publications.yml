@@ -1,5 +1,29 @@
 main:
 
+  - title: "Multi-Modal Object Re-identification via Sparse Mixture-of-Experts"
+    authors: Yingying Feng, Jie Li, Chi Xie, <strong>Lei Tan (corresponding author)</strong>, Jiayi Ji
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=uvFE58mSnR
+    code: https://github.com/stone96123/MFRNet
+    image: ./assets/img/MFRNet.png
+    
+  - title: "FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification"
+    authors: Zhen Sun, <strong>Lei Tan (co-first author)</strong>, Yunhang Shen, Chengmao Cai, Xing Sun, Pingyang Dai, Liujuan Cao, Rongrong Ji
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=dewR2augg2
+    code: https://stone96123.github.io/
+    image: ./assets/img/FlexiReID.png
+
+  - title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
+    authors: Silin Cheng, Yang Liu, Xinwei He, Sebastien Ourselin, <strong>Lei Tan (corresponding author)</strong>, Gen Luo
+    conference_short: CVPR
+    conference: Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_WeakMCN_Multi-task_Collaborative_Network_for_Weakly_Supervised_Referring_Expression_Comprehension_CVPR_2025_paper.pdf
+    code: https://github.com/MRUIL/WeakMCN
+    image: ./assets/img/WeakMCN.png
+
   - title: "RLE: A Unified Perspective of Data Augmentation for Cross-Spectral Re-identification"
     authors: <strong>Lei Tan</strong>, Yukang Zhang, Keke Han, Pingyang Dai, Yan Zhang, Yongjian Wu, Rongrong Ji
     conference_short: Neurips
