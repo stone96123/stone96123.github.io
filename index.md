@@ -9,7 +9,7 @@ I'm currently a research fellow at the National University of Singapore, where I
 ## News
 - **[Sept. 2025]** Two papers about any-to-any (Spotlight) and aerial-ground ReID are accepted by Neurips 2025.
 - **[Jul. 2025]** One paper about Text-based ReID is accepted by ACM MM 2025.
-- **[May 2025]** I have been selected as ICML'25 Top Reviewer.
+- **[May 2025]** I have been selected as ICML'25 Outstanding Reviewer.
 - **[May 2025]** Two papers about multi-modal ReID are accepted by ICML 2025.
 - **[Mar. 2025]** One paper about REC and RES is accepted by CVPR 2025.
 - **[Sept. 2024]** One paper about cross-spectral ReID is accepted by NeurIPS 2024.
