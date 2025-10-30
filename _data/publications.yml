@@ -20,7 +20,7 @@ main:
     authors: Xudong Wang, <strong>Lei Tan</strong>, Pingyang Dai, Liujuan Cao, Rongrong Ji
     conference_short: MM
     conference: ACM international conference on multimedia <strong>(MM)</strong>, 2025.
-    pdf: https://stone96123.github.io/
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3746027.3755123
     code: https://stone96123.github.io/
     image: ./assets/img/gptreid.png
     
