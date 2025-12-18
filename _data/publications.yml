@@ -1,6 +1,6 @@
 main:
 
-    - title: "Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search"
+  - title: "Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search"
     authors: <strong>Lei Tan</strong>, Weihao Li, Pingyang Dai, Jie Chen, Liujuan Cao, Rongrong Ji
     conference_short: IJCV
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025.
