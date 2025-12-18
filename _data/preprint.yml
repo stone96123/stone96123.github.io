@@ -1,12 +1,4 @@
 main:
-
-  - title: "Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search"
-    authors: <strong>Lei Tan</strong>, Weihao Li, Pingyang Dai, Jie Chen, Liujuan Cao, Rongrong Ji
-    conference_short: Arxiv
-    conference: arXiv preprint arXiv:2412.15106, 2024.
-    pdf: https://arxiv.org/pdf/2412.15106
-    code: https://stone96123.github.io/
-    image: ./assets/img/ADA.png
     
   - title: "PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-identification"
     authors: <strong>Lei Tan</strong>, Pingyang Dai, Jie Chen, Liujuan Cao, Yongjian Wu, Rongrong Ji
