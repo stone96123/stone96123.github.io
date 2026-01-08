@@ -7,7 +7,7 @@ layout: homepage
 I'm currently a research fellow at the National University of Singapore, where I collaborate with Prof. [Robby T. Tan](https://tanrobby.github.io/) and Prof. [Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). I obtained my Ph.D. degree from Xiamen University in 2024, with my research supervised by Prof. [Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). My research interests lie in the fields of person re-identification and AI-generated image detection.
 
 ## News
-- **[Nov. 2025]** One papers about Text-based ReID is accepted by IJCV.
+- **[Nov. 2025]** One paper about Text-based ReID is accepted by IJCV.
 - **[Nov. 2025]** Four papers (Two Oral) about PAR, Image Translation, and AI-generated image detection are accepted by AAAI 2026.
 - **[Sept. 2025]** Two papers (One Spotlight) about any-to-any and aerial-ground ReID are accepted by Neurips 2025.
 - **[Jul. 2025]** One paper about Text-based ReID is accepted by ACM MM 2025.
