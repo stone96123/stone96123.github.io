@@ -11,14 +11,12 @@ I'm currently a research fellow at the National University of Singapore, where I
 - **[Feb. 2026]** One paper about White-Balance is accepted by CVPR 2026.
 - **[Nov. 2025]** One paper about Text-based ReID is accepted by IJCV.
 - **[Nov. 2025]** Four papers (Two Oral) about PAR, Image Translation, and AI-generated image detection are accepted by AAAI 2026.
-- **[Sept. 2025]** Two papers (One Spotlight) about any-to-any and aerial-ground ReID are accepted by Neurips 2025.
+- **[Sept. 2025]** Two papers (One Spotlight) about any-to-any and aerial-ground ReID are accepted by NeurIPS 2025.
 - **[Jul. 2025]** One paper about Text-based ReID is accepted by ACM MM 2025.
 - **[May 2025]** I have been selected as ICML'25 Outstanding Reviewer.
 - **[May 2025]** Two papers about multi-modal ReID are accepted by ICML 2025.
 - **[Mar. 2025]** One paper about REC and RES is accepted by CVPR 2025.
 - **[Sept. 2024]** One paper about cross-spectral ReID is accepted by NeurIPS 2024.
-- **[Dec. 2023]** Two papers about occluded ReID are accepted by AAAI 2024.
-- **[Jul. 2023]** One paper about occluded ReID is accepted by ACM MM 2023.
 
 {% include_relative _includes/publications.md %}
 
